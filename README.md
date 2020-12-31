@@ -42,4 +42,4 @@ The inspiration for this theme is Deliveries.app:
 
 This theme is unaffiliated with nor endorsed by JuneCloud.
 
-<a href="https://www.alfredforum.com/topic/16270-deliveries-inspired-theme/">Alfred Forum link</a>.
+<a href="https://www.alfredforum.com/topic/16378-deliveriesapp-inspired-theme/">Alfred Forum link</a>.
